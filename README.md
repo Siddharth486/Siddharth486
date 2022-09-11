@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddharth486
 - 👀 I’m interested in web Development, cyber Security
-- 🌱 I’m currently learning MEAN Stack
+- 🌱 I’m currently  MEAN Stack Developer 
 - 💞️ I’m looking to collaborate on MEAN Stack Projects
 - 📫 How to reach me on github 
 
